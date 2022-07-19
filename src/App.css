@@ -1,0 +1,24 @@
+.card{
+  border: 3px solid rgb(137, 133, 133);
+  margin-block: 2rem;
+  color: rgb(213, 66, 18);
+}
+.card :hover{
+  box-shadow: 3px;
+}
+.containe:hover{
+  background-color: rgb(194, 178, 158);
+  
+}
+.darkk{
+  height: 300px;
+}
+.darkk:hover{
+  height: 500px;
+  width: 300px;
+
+
+}
+.bck{
+  background-color: burlywood;
+}
